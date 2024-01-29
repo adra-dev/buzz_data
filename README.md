@@ -4,13 +4,14 @@ First we need define the project, since we already have information about the ob
 
 1. Specific
     - What needs to be accomplished?
-        - population prediction system 
+        - population prediction system
+        - data visualization. 
 2. Mesurable
     - How do I mesure my model results?
         - Making the prediction of new values using historical data.
 3. Achivable
     - is your objective something your team can reasonably accomplish?
-        - We need to review this point after gathering the data and making the EDA.
+        - It is achivable.
 4. Relevant
     - Why are you setting the goal that you’re setting?
         - Create a linear regresion model and predict new values.
